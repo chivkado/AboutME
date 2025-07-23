@@ -35,7 +35,7 @@ My name is **CHIV KADO** and I am currently a 4th year student at **Institute of
 |--------|-------------|-------|
 | TripTrek | Full web & mobile travel planner app | [Frontend](https://github.com/chivkado240/IP-II-project) / [Backend](https://github.com/chivkado240/IP-II-project-Backend) |
 | Product CRUD | Mobile CRUD app with Provider | [GitHub](https://github.com/chivkado240/Flutter-Product-CRUD) |
-| Flappy Plane | 2D Java game using OOP | [GitHub](https://github.com/chivkado240/Jai-Advanture) |
+<!-- | Flappy Plane | 2D Java game using OOP | [GitHub](https://github.com/chivkado240/Jai-Advanture) | -->
 | The Text Board | Collaborative messaging board | [GitHub](https://github.com/chivkado240/The-Text-Board) |
 
 ---
