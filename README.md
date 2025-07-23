@@ -45,7 +45,7 @@ My name is **CHIV KADO** and I am currently a 4th year student at **Institute of
 
 - Email: `chivkado240@gmail.com`  
 - LinkedIn: [CHIV Kado](https://www.linkedin.com/in/chiv-kado-b96160311/)  
-- Facebook: [facebook.com/chivkado](https://facebook.com/chivkado)
+- Facebook: [facebook.com/chivkado](https://facebook.com/chivkado.2025)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CHIV%20Kado-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chiv-kado-b96160311/)
 
